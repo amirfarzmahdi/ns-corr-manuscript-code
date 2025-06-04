@@ -8,6 +8,8 @@ Each script corresponds to a main figure in the paper. Additional files provide 
 
 Data: https://doi.org/10.5281/zenodo.15596406 and (http://dx.doi.org/10.6080/K0SB43P8 or https://crcns.org/data-sets/vc/pvc-8)
 
+Paper: url to be updated upon publication
+
 ## Requirements
 
 Install the required Python libraries using:
