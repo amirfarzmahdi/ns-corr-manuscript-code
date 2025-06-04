@@ -6,7 +6,7 @@ This repository contains the code and analysis scripts used to generate the main
 
 Each script corresponds to a main figure in the paper. Additional files provide code for training covariance matrices, evaluating test responses, computing likelihoods, and performing sampling within the pairwise model framework.
 
-Data: https://doi.org/10.5281/zenodo.15596406 and http://dx.doi.org/10.6080/K0SB43P8
+Data: https://doi.org/10.5281/zenodo.15596406 and http://dx.doi.org/10.6080/K0SB43P8 (or https://crcns.org/data-sets/vc/pvc-8)
 
 ## Requirements
 
