@@ -1,6 +1,6 @@
 # Relating natural image statistics to patterns of response covariability in macaque primary visual cortex
 
-**Farzmahdi A, Kohn A, and Coen-Cagli R (2025)** – *Nature Communications*
+**Farzmahdi A, Kohn A, and Coen-Cagli R (2025)**
 
 This repository contains the code and analysis scripts used to generate the main figures of the manuscript.
 
